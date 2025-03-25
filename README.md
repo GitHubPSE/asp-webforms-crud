@@ -33,7 +33,8 @@ README.md
        connectionString="Data Source=.;Initial Catalog=localTest;Integrated Security=True"
        providerName="System.Data.SqlClient" />
 </connectionStrings>
+```
 
-3. **Visual Studio에서 실행**
+4. **Visual Studio에서 실행**
 	•	시작 페이지: Pages/Members.aspx
 	•	등록/수정: Pages/AddMember.aspx
