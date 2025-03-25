@@ -1,0 +1,11 @@
+# ASP.NET Web Site
+*.mdf
+*.ldf
+*.bak
+App_Data/
+.vs/
+bin/
+obj/
+_ReSharper.*
+*.user
+*.suo
